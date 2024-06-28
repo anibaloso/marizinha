@@ -1,0 +1,53 @@
+*{
+    border: 1px solid;
+}
+body {
+    background-color: #678682;
+}
+
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xx-large;
+}
+
+#logo{
+    width: 200px;
+}
+
+.cartas{
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+}
+
+
+/* CSS HEX */
+.alabaster {
+    color: #f1f2eaff;
+}
+
+.ivory {
+    background-color: #f3f5e9ff;
+}
+
+.alabaster-2 {
+    color: #f2f3e8ff;
+}
+
+.ash-gray {
+    background-color: #b5cebdff;
+}
+
+.hookers-green {
+    color: #678682ff;
+}
+
+.hookers-green-2 {
+    color: #567170ff;
+}
+
+.hookers-green-3 {
+    color: #5c8077ff;
+}
